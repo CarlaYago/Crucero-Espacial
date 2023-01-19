@@ -1,0 +1,32 @@
+** PalabrasLogopeda
+- Palabras (ID_Palabra(primaria), Palabra, Imagen, ID_Categoria(foranea))
+[ ID: int / Palabra: text / Imagen: image / Categoria: int (Categorias -> ID) ]
+- Categorias (ID_Categoria(primaria), Categoria)
+[ ID: int / Categoria: text ]
+
+- FrasesTextos (ID_Frase(primaria), Frase, Preguntas, Secuencia, Texto)
+[ ID: int / Frase: text / Preguntas: "bool" / Secuencia: "bool" / Texto: "bool" ]
+- Preguntas (ID, Pregunta, ID_Frase(foranea))
+[ ID: int / Pregunta: text / Frase: int (Frases -> ID) ]
+
+- Secuencias (ID, Secuencia, Dificultad)
+[ ID: int / Secuencia: text / Dificultad: int]
+
+- Sinonimos (ID, Palabra, Sinonimo, ID_Palabra(foranea))
+[ ID: int / Palabra: text / Sinonimo: "bool" / ID_Palabra: int (Palabras -> ID) ]
+
+** Juego
+- Usuarios (ID_Usuario(primaria), Nombre, Gasolina, Puntuacion)
+[ ID: int / Nombre: text / Gasolina: int / Puntuacion: int]
+
+?? - Puntuacion (MJ1, MJ2, MJ3, ... ID_Usuario(foranea))
+[ MJ1: int / ... / Palabra: int (Usuarios -> ID) ]
+
+- Dificultad_Palabras (MJ1, MJ2, MJ3, ... ID_Palabra) 
+[ MJ1: int / ... / Palabra: int (Palabras -> ID) ]
+- Dificultad_Frases (MJ1, MJ2, MJ3, ... ID_Frase) 
+[ MJ1: int / ... / Palabra: int (Frases -> ID) ]
+- Dificultad_Textos (MJ1, MJ2, MJ3, ... ID_Texto) 
+[ MJ1: int / ... / Palabra: int (Textos -> ID) ]
+- Dificultad_Secuencias (MJ1, MJ2, MJ3, ... ID_Secuencia) 
+[ MJ1: int / ... / Palabra: int (Secuencias -> ID) ]

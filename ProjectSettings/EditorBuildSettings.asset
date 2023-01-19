@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Gameplay/Log In/Scenes/SeleccionPaciente.unity
+    guid: 4e80f8dcb828adc419d3088afae07347
+  - enabled: 1
+    path: Assets/Gameplay/Configuracion/Dificultad/Scenes/ConfigDificultad.unity
+    guid: 6783a45908c39c548b5f24594932a8d6
+  - enabled: 1
+    path: Assets/Gameplay/Almacen/Scenes/Almacen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Gameplay/Coleccion/Scene/ColeccionScene.unity
+    guid: e4ab02e8856d1bd4d9806d59c0dad321
+  - enabled: 1
+    path: Assets/Gameplay/Planetario/Scenes/Planetario_interfaz.unity
+    guid: 4619b8c603b901240bb33f7e2b9e43e0
+  - enabled: 1
+    path: Assets/Gameplay/Nave/Scenes/Nave.unity
+    guid: 7078236544fc2514f809a8d666e9912b
+  - enabled: 1
+    path: Assets/Gameplay/Lobby Minijuegos/Scenes/InterfazPrincipalRecompensa.unity
+    guid: 2bcae084407f7f24b96794182b5ac568
+  - enabled: 1
+    path: Assets/Minijuegos/Minijuego1/Scenes/minijuego1.unity
+    guid: 76d2c24416e8ee846a161da8df7c8dee
+  - enabled: 1
+    path: Assets/Minijuegos/Minijuego2/Scenes/Minijuego_2.unity
+    guid: df46f420c67ebde49b99c521b1cc8c4c
+  - enabled: 1
+    path: Assets/Minijuegos/Minijuego3/Scenes/Minijuego3_Scene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Minijuegos/Minijuego4/Scenes/Minijuego4.unity
+    guid: 608413b0cc5a46549b054341ae42be24
+  - enabled: 1
+    path: Assets/Minijuegos/Minijuego5/Scenes/MJ5.unity
+    guid: ae887dcb50229b34f918c639a797f611
+  - enabled: 1
+    path: Assets/Minijuegos/Minijuego6/Scenes/Minijuego6 2.unity
+    guid: 17524236bbd3c9243a468f0c682304f0
+  - enabled: 1
+    path: Assets/Minijuegos/minijuego7/scenes/minijuego7.unity
+    guid: ad9483a56b3e2f4448496600c7f0f638
+  - enabled: 1
+    path: Assets/Minijuegos/Minijuego8/Scenes/Minijuego8.unity
+    guid: e99a322ecb36ddc498f62b7c4978c366
+  - enabled: 1
+    path: Assets/Minijuegos/Minijuego9/Scenes/Minijuego9.unity
+    guid: 878db22f94425e245ad6c927b3c13566
+  - enabled: 1
+    path: Assets/Minijuegos/Minijuego11/scenes/minijuego11.unity
+    guid: c64f08462ca590945b362d45a11c9f89
+  - enabled: 1
+    path: Assets/Minijuegos/Minijuego13/Scenes/Minijuego13.unity
+    guid: 6b8f9d53b011e3949b73eb5cb0a30599
+  - enabled: 1
+    path: Assets/Minijuegos/Minijuego15/Scenes/Minijuego15_Scene.unity
+    guid: 04e49154f0c05534a92980e2e1ca0473
+  - enabled: 1
+    path: Assets/Minijuegos/Minijuego16/scenes/minijuego16.unity
+    guid: 5f36af5abadab08499183d4c0b3c2721
+  - enabled: 1
+    path: Assets/Gameplay/Configuracion/TiempoEspera/Scenes/IntervaloPlanetas.unity
+    guid: 855d4edcb442df846af958bbfcf342c0
+  - enabled: 1
+    path: Assets/Gameplay/ModoLibre/Scenes/ModoLibre.unity
+    guid: 85ee006bef91def4a9e5ecb5c0bb5066
+  - enabled: 1
+    path: Assets/Minijuegos/Minijuego17/Scenes/Minijuego17.unity
+    guid: 50a5055ec91e49245b23075f426a6e88
+  - enabled: 1
+    path: Assets/Gameplay/Transiciones/Escenas/TRansicionInicio.unity
+    guid: 865887ec437bf1d43874a4c370fb5f7b
+  - enabled: 1
+    path: Assets/Gameplay/Scoreboard/Scoreboard.unity
+    guid: 3ed41acf675ae004b973e4f6adfdbcbd
+  - enabled: 1
+    path: "Assets/Gameplay/Cinem\xE1tica/Scenes/cinematica.unity"
+    guid: 9cb1451719674b9459336087073e8af0
+  - enabled: 1
+    path: Assets/Scenes/Tabla.unity
+    guid: 06a08665a38c02b4ab7c5a0f1bfea66d
+  m_configObjects: {}

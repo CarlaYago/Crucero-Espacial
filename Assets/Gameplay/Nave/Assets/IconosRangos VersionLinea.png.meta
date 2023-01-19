@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: bd63b04ca9e3d15409e3dc0debfed488
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2603093422123022880
+    second: IconosRangos VersionLinea_1
+  - first:
+      213: -1041669825596196780
+    second: IconosRangos VersionLinea_2
+  - first:
+      213: 8840411870639263988
+    second: IconosRangos VersionLinea_4
+  - first:
+      213: 5991563641379666059
+    second: IconosRangos VersionLinea_5
+  - first:
+      213: 5240213429451465739
+    second: IconosRangos VersionLinea_8
+  - first:
+      213: 5972579598224391863
+    second: IconosRangos VersionLinea_10
+  - first:
+      213: 4106132524482177516
+    second: IconosRangos VersionLinea_12
+  - first:
+      213: 7747745925637388856
+    second: IconosRangos VersionLinea_14
+  - first:
+      213: -3144390124162555484
+    second: IconosRangos VersionLinea_21
+  - first:
+      213: -1118128393403188982
+    second: IconosRangos VersionLinea_25
+  - first:
+      213: 6047427615999156462
+    second: IconosRangos VersionLinea_28
+  - first:
+      213: 1520464673937759974
+    second: IconosRangos VersionLinea_31
+  - first:
+      213: 2431928729845302755
+    second: IconosRangos VersionLinea_41
+  - first:
+      213: -8213253813711663769
+    second: IconosRangos VersionLinea_44
+  - first:
+      213: -3905684947059461101
+    second: IconosRangos VersionLinea_46
+  - first:
+      213: 3611124547523753568
+    second: IconosRangos VersionLinea_48
+  - first:
+      213: 5991664748334474223
+    second: IconosRangos VersionLinea_59
+  - first:
+      213: -6907040247782174834
+    second: IconosRangos VersionLinea_61
+  - first:
+      213: 7291657794221261812
+    second: IconosRangos VersionLinea_68
+  - first:
+      213: -3052616023290394823
+    second: IconosRangos VersionLinea_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 810
+        width: 202
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e583390354ffdbd0800000000000000
+      internalID: -2603093422123022880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 811
+        width: 202
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458781800de3b81f0800000000000000
+      internalID: -1041669825596196780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_4
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 811
+        width: 274
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0999102c37faa70800000000000000
+      internalID: 8840411870639263988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_5
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 815
+        width: 154
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88b49d136f462350800000000000000
+      internalID: 5991563641379666059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_8
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 775
+        width: 207
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04afa9a95af8b840800000000000000
+      internalID: 5240213429451465739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_10
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 771
+        width: 194
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bef8e0208dd2e250800000000000000
+      internalID: 5972579598224391863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 843
+        width: 252
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9207a96c9ebf830800000000000000
+      internalID: 4106132524482177516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 538
+        width: 234
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ab89bbed5858b60800000000000000
+      internalID: 7747745925637388856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 570
+        width: 291
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a16b0e77d1ec54d0800000000000000
+      internalID: -3144390124162555484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 555
+        width: 306
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09bce9762c9b70f0800000000000000
+      internalID: -1118128393403188982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_28
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 558
+        width: 363
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee064884067cce350800000000000000
+      internalID: 6047427615999156462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_31
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 540
+        width: 499
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee179fa096c91510800000000000000
+      internalID: 1520464673937759974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 323
+        width: 503
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e50f7d7b42ffb120800000000000000
+      internalID: 2431928729845302755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_44
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 310
+        width: 342
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d089f0c29a40e80800000000000000
+      internalID: -8213253813711663769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_46
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 307
+        width: 396
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3143eeddb383cc9c0800000000000000
+      internalID: -3905684947059461101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_48
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 306
+        width: 474
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b8d6b4aa4d1230800000000000000
+      internalID: 3611124547523753568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_59
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 10
+        width: 178
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3e4b9e75ba62350800000000000000
+      internalID: 5991664748334474223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_61
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 16
+        width: 251
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f0e9d5d734520a0800000000000000
+      internalID: -6907040247782174834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_68
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 31
+        width: 191
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f34448812c213560800000000000000
+      internalID: 7291657794221261812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconosRangos VersionLinea_74
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 15
+        width: 310
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9374c1876ede2a5d0800000000000000
+      internalID: -3052616023290394823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 03d62c9cd2b1d5c44a5023d2127255e9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

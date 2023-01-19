@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b60227985c561840b6c50f5648e3ca8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Espacios: {instanceID: 0}
+  - Espacio: {fileID: 8064898439627365606, guid: 6f21522eeb3e5014abd9baa3a814f1f3, type: 3}
+  - Letras: {instanceID: 0}
+  - Letra: {fileID: 9077206468236553856, guid: cd965cd6783e6ec47be3e634fcca35d1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
